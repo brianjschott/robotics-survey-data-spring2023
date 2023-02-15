@@ -8,7 +8,14 @@ For the following two spreadsheets:
 - Import into pandas as DataFrames
 - Display the mean, median, and mode of each dataset of each dataset
 - Display the standard deviation and interquartile range
-- Make observations in each lab as to what the data shows you
-- Make an inference as to what the data may tell you about the students
+- Make observations in each lab as to what the data shows you: How is the center of the dataset organized? How much spread does the data have?
+- Make an inference/inferences as to what the data may tell you about the students
 
-Answer all questions in the text space before or after each section of code. 
+Answer all questions in the text space before or after each section of code. You work will be assessed on the following qualities:
+- Am I using the pandas library to import each dataframe?
+- Am I displaying the data about each dataset?
+- Am I commenting my code to explain each series of steps I am taking?
+- Am I making observations relating to the central tendency/variability of each data set?
+- Am I making inferences supported by data from the dataset?
+
+If you can, try to merge both datasets by matching each set up by email hash.
